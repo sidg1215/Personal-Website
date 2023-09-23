@@ -1,0 +1,50 @@
+[
+    {
+      "date": "January 2023 - August 2023",
+      "position": "Software Engineering Co-op",
+      "company": "Babel Street",
+      "skills": ["React", "Python", "FastAPI", "MongoDB", "NLP", "Java", "Flask"],
+      "description": [
+        "Developed an optimized search and filtering tool for Rosette Adaptation Studio's front page, leveraging MongoDB, Flask, and ReactJS.",
+        "Proactively maintained the company's event extraction service via FastAPI. Issued pre-releases, enhanced functionality and conducted thorough testing.",
+        "Innovated by designing an event extraction reporting tool using ReactJS and Flask. Enhanced transparency into event extraction model behavior, providing project managers with deeper insights for better decision making.",
+        "Worked closely with Project Managers and the QA team to enforce continuous improvement within the product."
+      ],
+      "shortDescription": "I developed an optimized search and filtering tool for Rosette Adaptation Studio's front page, utilizing MongoDB, Flask, and ReactJS. Additionally, I proactively maintained the company's event extraction service through FastAPI, including issuing pre-releases, improving functionality, and conducting rigorous testing. I also innovated by creating an event extraction reporting tool with ReactJS and Flask, offering enhanced transparency into event extraction model behavior to provide project managers with deeper insights for informed decision-making. Throughout these tasks, I collaborated closely with Project Managers and the QA team to drive continuous improvement within the product.",
+      "imageLink": "https://www.securityandpolicing.co.uk/wp-content/uploads/sites/16/exhibitors/twenty-thr/images/137622-300x300.png"
+    },
+    {
+      "date": "January 2022 - August 2022",
+      "position": "Software Engineering Co-op",
+      "company": "Wellframe",
+      "skills": [
+        "Java",
+        "JUnit",
+        "Cucumber",
+        "Postico",
+        "Gitlab CI/CD"
+      ],
+      "description": [
+        "Led initiative to make API tests executable on 70+ different personal environments locally and through CI/CD pipeline using Java, Maven, and BASH, leading to 90% reduction in test failures and a synchronized testing environment.",
+        "Tested 40+ internal and external endpoints of all 4 REST API services in the company and reported multiple bugs using Cucumber, JUnit, Postman, cURL, and Postico.",
+        "Implemented a nightly run CI/CD pipeline that utilizes a script to keep all environments up to date with latest services, saving multiple hours of work for the entire automation team."
+      ],
+      "shortDescription": "I led an initiative to enable the execution of API tests on over 70 different personal environments, both locally and through our CI/CD pipeline, using Java, Maven, and BASH. This effort resulted in a remarkable 90% reduction in test failures and ensured a synchronized testing environment. Additionally, I conducted testing on more than 40 internal and external endpoints across all four REST API services within the company, identifying and reporting multiple bugs. I utilized tools like Cucumber, JUnit, Postman, cURL, and Postico for this task. Furthermore, I implemented a nightly CI/CD pipeline that runs a script to keep all environments up-to-date with the latest services, saving valuable time for the entire automation team.",
+      "imageLink": "https://thebestandbrightest.com/wp-content/uploads/2021/05/wellframe_logo.png"
+    },
+    {
+        "date": "September 2021 - Present (Just returned to TAing)",
+        "position": "Lead Teaching Assistant",
+        "company": "Khoury College of Computer Science",
+        "skills": [
+          "Racket",
+          "Teaching",
+          "Public Speaking"
+        ],
+        "description": [
+          "to be added"
+        ],
+        "shortDescription": "As the Lead Teaching Assistant for Fundies 1, the introductory course for all new CS majors at Northeastern, I took on various responsibilities, including conducting and overseeing lab sessions, offering extensive office hours, and meticulously grading assignments.",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Northeastern_seal.svg/1200px-Northeastern_seal.svg.png"
+      }
+  ]

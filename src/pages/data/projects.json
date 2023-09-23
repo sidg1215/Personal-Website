@@ -1,0 +1,30 @@
+[
+    {
+        "name": "SummaryGPT",
+        "description": "Web-app that uses the OpenAI API to summarize YouTube videos in paragraph and bullet-point format",
+        "technologies": "FastAPI, ReactTS, Docker, AWS EC2",
+        "link": "http://ec2-3-145-81-247.us-east-2.compute.amazonaws.com/",
+        "imageLink": "https://pbs.twimg.com/profile_images/1634058036934500352/b4F1eVpJ_400x400.jpg"
+    },
+    {
+        "name": "Financial News Keyword Extractor",
+        "technologies": "Python, Bash",
+        "description": "A script that that web scrapes financial articles from Reuters and extracts key-words from each article using tools such as TF-IDF vectorization and POS tagging.",
+        "link": "https://github.com/sidg1215/Financial-News-Keyword-Extraction",
+        "imageLink": "https://i1.sndcdn.com/avatars-RGgXraz1SPFZKU7x-9uYAAQ-t500x500.jpg"
+    },
+    {
+        "name": "Image Processing Application",
+        "technologies": "Java",
+        "description": "A script that that web scrapes financial articles from Reuters and extracts key-words from each article using tools such as TF-IDF vectorization and POS tagging.",
+        "imageLink": "/images/ImageProcessing.png"
+    },
+    {
+        "name": "Hybrid Assymetric-Symmetric Encryption",
+        "technologies": "Python",
+        "description": "My first side-project. In this project, I wrote text and image RSA/AES encryption scripts from scratch in Python.",
+        "link": "https://github.com/sidg1215/Hybrid-Assymetric-Symmetric-Encryption",
+        "imageLink": "https://media.cybernews.com/images/featured/2020/12/What-is-AES-Encryption.jpg"
+    }
+
+]

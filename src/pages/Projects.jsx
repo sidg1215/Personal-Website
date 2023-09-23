@@ -36,7 +36,7 @@ function ProjectCard(project, hide="show") {
     return (
         <div class="card bg-light ml-5 mr-5 mb-2" style={{ visibility: hide }}>
             <a href={project?.link} target="_blank" rel="noreferrer">
-                <img class="card-img-top " src={project.imageLink}></img>
+                <img class="card-img-top " src={project.imageLink} alt=""></img>
             </a>
             <h5 class="card-title ml-1">
                 {project.name}

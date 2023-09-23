@@ -22,7 +22,7 @@ export const Experience = () => {
                                     <h6>{experience.date}</h6>
                                     <h6>Used: {experience.skills.join(", ")}</h6>
                                 </div>
-                                <img height={'100%'} width={'15%'} src={experience?.imageLink}></img>
+                                <img height={'100%'} width={'15%'} src={experience?.imageLink} alt=""></img>
                             </div>
                             <div class="card-body lead">
                                 {<p>{experience.shortDescription}</p>}

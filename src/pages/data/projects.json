@@ -14,9 +14,9 @@
         "imageLink": "https://i1.sndcdn.com/avatars-RGgXraz1SPFZKU7x-9uYAAQ-t500x500.jpg"
     },
     {
-        "name": "Image Processing Application",
+        "name": "Image Editing Application",
         "technologies": "Java",
-        "description": "A script that that web scrapes financial articles from Reuters and extracts key-words from each article using tools such as TF-IDF vectorization and POS tagging.",
+        "description": "A Java application that can edit images (such as apply filters and resize), comes with a GUI and a text-based control system. Source code avaliable upon request.",
         "imageLink": "/images/ImageProcessing.png"
     },
     {

@@ -5,7 +5,7 @@ export const Experience = () => {
         <>
             <div class="d-flex flex-column justify-content-around align-items-center">
                 <h1 class="display-3">Experience</h1>
-                <p class="lead">Over the years, I have had the privelege to work in many different places, which include:</p>
+                <p class="lead">Over the years, I have had the opportunity to work in many different places, which include:</p>
             </div>
             <div class="d-flex flex-column justify-content-around align-items-center">
                 {experiences.map((experience => {
@@ -25,7 +25,7 @@ export const Experience = () => {
                                 <img height={'100%'} width={'15%'} src={experience?.imageLink} alt=""></img>
                             </div>
                             <div class="card-body lead">
-                                {<p>{experience.shortDescription}</p>}
+                                <p>{experience.shortDescription}</p>
                             </div>
                         </div>
                     );

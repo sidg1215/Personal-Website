@@ -4,7 +4,7 @@ import { TypeAnimation } from "react-type-animation";
 export const Home = () => {
     return (
         <div class="container">
-            <div class="d-flex flex-row">
+            <div style={{flexWrap: 'wrap'}} class="d-flex flex-row justify-content-between">
                 <div class="d-flex flex-column justify-content-center align-items-center col align-self-center">
                     <h1 class="display-1">Siddharth</h1>
                     <h1 class="display-1">Gupta</h1>

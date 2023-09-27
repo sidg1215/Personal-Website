@@ -12,7 +12,7 @@ export const Home = () => {
                         repeat={Infinity}
                         sequence={["Software Engineer", 1000, "Student", 1000, "Hobbyist", 1000]}
                     />
-                    <p><b>Currently, I am looking for full-time roles starting May 2024.</b></p>
+                    <center><b>Currently, I am looking for full-time roles starting May 2024.</b></center>
                     <p><b><a href="https://github.com/sidg1215" target="_blank" rel="noreferrer">GitHub</a>|<a href="https://www.linkedin.com/in/sidgupta-1234/" target="_blank" rel="noreferrer">Linkedin</a></b></p>
                     <p><b>Phone: 603-546-8865</b></p>
                     <p><b>Email: <a href="/">gupta.siddh@northeastern.edu</a></b></p>

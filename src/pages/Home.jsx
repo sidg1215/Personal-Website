@@ -42,9 +42,6 @@ export const Home = () => {
                                     Full-stack development
                                 </li>
                                 <li>
-                                    Artificial Intelligence
-                                </li>
-                                <li>
                                     Programming Languages
                                 </li>
                             </ul>

@@ -6,7 +6,7 @@ export const Projects = () => {
         <>
             <div style={{}} class="d-flex flex-column justify-content-center align-items-center">
                 <h1 class="display-3">Projects</h1>
-                <p class="lead">In my free time, I like to try and learn and make new things. Here are some of them:</p>
+                <p class="lead">Personal and academic</p>
             </div>
             <div class="d-flex flex-column justify-content-around align-items-center">
                 {projects.map((project => {
@@ -22,7 +22,6 @@ export const Projects = () => {
                                     <h6>Used: {project.technologies}</h6>
                                     <p>{project.description}</p>
                                 </div>
-                                <img height={'100%'} width={'15%'} src={project.imageLink} alt=""></img>
                             </div>
                         </div>
                     );
